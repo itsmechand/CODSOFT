@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOFT(Python)
 
 #Task 1
 
